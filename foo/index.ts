@@ -1,4 +1,4 @@
 // import { test_function } from "./bar"
 
-console.log(`foo.ts was called`)
+console.log(`index.ts was called`)
 // test_function()
