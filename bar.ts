@@ -1,3 +1,4 @@
-export {
-  test_function: () => {alert(`bar.ts was called`)}
-}
+import { test_function } from "./baz"
+
+console.log("bar.ts was called");
+test_function();
